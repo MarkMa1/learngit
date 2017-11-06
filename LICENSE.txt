@@ -1,0 +1,2 @@
+hello world
+I will begin to use git for coding now
